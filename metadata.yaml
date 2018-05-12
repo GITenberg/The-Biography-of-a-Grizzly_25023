@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
 description: The biography of a grizzly -- Lobo, the king of Currumpaw.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25023#The-Biography-of-a-Grizzly
 gutenberg_bookshelf: Canada
 gutenberg_issued: '2008-04-08'
 gutenberg_type: Text
