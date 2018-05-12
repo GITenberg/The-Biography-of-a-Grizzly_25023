@@ -1,0 +1,33 @@
+_repo: The-Biography-of-a-Grizzly_25023
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25023-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton, Wolf
+    - Seton-Thomson, Ernest
+    - Seton-Thompson, Ernest
+    - Thompson-Seton, Ernest
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: The biography of a grizzly -- Lobo, the king of Currumpaw.
+gutenberg_bookshelf: Canada
+gutenberg_issued: '2008-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grizzly bear -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Biography of a Grizzly
+url: http://www.gutenberg.org/ebooks/25023
